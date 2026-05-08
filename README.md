@@ -278,8 +278,11 @@ TAVILY_API_KEY=tvly-...
 ---
 
 ## 🧪 功能演示
+<img width="1909" height="913" alt="1a8f9c5685194a2631fb4c6c9cc96c3e" src="https://github.com/user-attachments/assets/29a764c0-d374-4feb-8469-6c0ff126bf69" />
+
 
 启动后在 Gradio 界面依次输入以下问题，验证各 Agent 路由是否正确：
+
 
 ```
 # 数据分析 Agent
